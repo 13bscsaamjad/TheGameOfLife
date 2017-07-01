@@ -9,11 +9,11 @@ The program simulates the colony for successive generations and outputs the resu
 1. Compile the souce using your favourite C++ Compiler.
 2. Run the ececutable.
   * Provide colonial snapshot
-    ** X marks bactera; - marks empty position
+  * X marks bactera; - marks empty position
  
- ++++++++++++++
- + The Rules  +
- ++++++++++++++
+ ==============
+ =  The Rules =
+ ==============
  - A cell with 1 or fewer neighbors dies.
  - Locations with 2 neighbors remain stable.
  - Locations with 3 neighbors will create life.
